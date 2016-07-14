@@ -1,0 +1,3 @@
+[submodule "coolblue"]
+	path = coolblue
+	url = https://github.com/heleneshaikh/coolblue.git
