@@ -4,3 +4,6 @@
 [submodule "BBC"]
 	path = BBC
 	url = https://github.com/heleneshaikh/BBC.git
+[submodule "resume"]
+	path = resume
+	url = https://github.com/heleneshaikh/resume
