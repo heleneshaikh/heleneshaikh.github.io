@@ -10,3 +10,6 @@
 [submodule "optimization"]
 	path = optimization
 	url = https://github.com/heleneshaikh/optimization.git
+[submodule "optimizations"]
+	path = optimizations
+	url = https://github.com/heleneshaikh/optimizations.git
